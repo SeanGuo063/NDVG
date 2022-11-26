@@ -1,0 +1,6 @@
+changepath.py
+logs
+logs_foropen
+data
+gx_scripts
+*__pycache__
